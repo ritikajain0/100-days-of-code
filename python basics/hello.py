@@ -1,1 +1,2 @@
-mes="hello world!"
+print("hello world!")
+print("welcome"+ "ritika")
